@@ -21,3 +21,37 @@ alert(s);
 | :-------------- |:------- |:------- |
 |left | center | right 
 
+
+`<http> </http>`
+
+> "引用しました
+ダブル区フォートを入れれば改行されない"
+
+> aaaaa
+ふぃｄ
+>>あｋｋｋｋｋｋ
+>>ｆｋｄｌｋｊ\
+> aaaaa\
+>`<http></http>` コードをかいてみたり
+>1. リスト
+>* リスト
+
+[マークダウンサイト](<http://codechord.com/2012/01/readme-markdown/> "タイトル")
+
+![](sample.jpg)
+
+***
+エスケープ一覧
+
+\   backslash
+`   backtick
+*   asterisk
+_   underscore
+{}  curly braces
+[]  square brackets
+()  parentheses
+#   hash mark
++   plus sign
+-   minus sign (hyphen)
+.   dot
+!   exclamation mark
